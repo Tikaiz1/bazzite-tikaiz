@@ -33,6 +33,7 @@ modules:
        - gimp
        - vlc
        - libreoffice
+       - thunderbird
       # - micro
       # - starship
     remove:
