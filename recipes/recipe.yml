@@ -65,6 +65,7 @@ modules:
          - it.mijorus.gearlever
          - net.davidotek.pupgui2
          - org.rncbc.qpwgraph
+         - com.protonvpn.www
         # - org.mozilla.firefox
         # - org.gnome.Loupe
         # - one.ablaze.floorp//lightning # This is an example of flatpak which has multiple branches in selection (flatpak//branch).
