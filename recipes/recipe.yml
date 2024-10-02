@@ -62,7 +62,6 @@ modules:
          - io.github.dvlv.boxbuddyrs
          - io.github.fastrizwaan.WineZGUI
          - io.github.flattool.Warehouse
-         - io.github.zen_browser.zen
          - it.mijorus.gearlever
          - net.davidotek.pupgui2
          - org.rncbc.qpwgraph
