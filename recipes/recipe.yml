@@ -36,6 +36,7 @@ modules:
        - libreoffice
        - thunderbird
        - steam
+       - clang-tools-extra
       # - micro
       # - starship
     remove:
